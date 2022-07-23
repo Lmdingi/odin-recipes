@@ -1,0 +1,22 @@
+.allimages{
+    height: auto;
+    width: 100px;
+}
+h1{
+    background-color: green;
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+div{
+    background-color: grey;
+    text-align: center;
+}
+body{
+    background-color: rgb(46, 82, 46);
+}
+.list{
+    color: white;
+}
+p{
+    background-color: white;
+}
